@@ -6,6 +6,9 @@
 *.user
 *.sln.docstates
 
+# CSV Files 
+*.csv
+
 # Build results
 
 [Dd]ebug/
