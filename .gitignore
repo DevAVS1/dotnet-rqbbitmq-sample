@@ -8,7 +8,7 @@
 
 # CSV Files 
 *.csv
-
+.vscode/
 # Build results
 
 [Dd]ebug/
